@@ -1,4 +1,4 @@
-# Disk Image Forensics and File Recovery Toolkit
+# Digital Evidence Recovery Toolkit
 
 This repository provides a Python-based toolkit for disk image forensics and file recovery. It includes functionality to:
 - Create disk images
